@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Школа</string>
+    <string name="raspis"> Расписание </string>
+    <string name="stolov"> Столовая </string>
+    <string name="biblio"> Библиотека </string>
+    <string name="nal"> В Наличии: </string>
+    <string name="namber"> Номер: </string>
+    <string name="discription"> Роман «Мастер и Маргарита» повествует о фантастических приключениях Воланда,
+        называющего себя иностранным профессором и дьяволом, во время его пребывания в Москве 1930-х годов. </string>
+</resources>
